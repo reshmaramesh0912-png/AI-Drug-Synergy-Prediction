@@ -52,4 +52,4 @@ AI_Drug_Combination_Prediction/
 - Deep Learning Models
 
 ## 👩‍💻 Author
-**Sharmilee Sivakumar**
+**Reshma Ramesh**
