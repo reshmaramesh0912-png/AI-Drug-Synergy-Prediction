@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+*.log
+
+cleaned_drugcomb.csv
+summary_table_v1.4.csv
